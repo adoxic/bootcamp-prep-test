@@ -1,3 +1,1 @@
-# bootcamp-prep-test
-practice for bootcamp prep
-$ echo "hello world, time for git!"
+text that will be inserted into a readme.md
